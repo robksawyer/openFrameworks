@@ -23,5 +23,10 @@ ofxAndroid/ofAndroidLib/gen
 !ofxXmlSettings
 !ofxEmscripten
 
+#########################
+# other addons
+#########################
+!ofxFFGLPlugin
+
 # don't ignore the .gitignore file
 !.gitignore
